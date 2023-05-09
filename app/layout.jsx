@@ -2,8 +2,12 @@ import "@styles/globals.css";
 
 import Nav from "@components/Nav";
 import Provider from "@components/Provider";
+import Head from "next/head";
 
 export const metadata = {
+  icons: {
+    icon: "assets/images/favicon.ico",
+  },
   title: "PromptPal",
   description: "Discover & Share AI Prompts",
 };
