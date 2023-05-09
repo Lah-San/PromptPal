@@ -8,7 +8,7 @@ export const metadata = {
   icons: {
     icon: "assets/images/favicon.ico",
   },
-  title: "PromptPal",
+  title: "Promptio",
   description: "Discover & Share AI Prompts",
 };
 
